@@ -1,11 +1,25 @@
 {
   "name": "vtv-test-storybook",
-  "version": "1",
+  "version": "1.0.1",
+  "description": "- its a test to use storibook UI lib",
+  "main": "index.js",
   "private": false,
   "peerDependencies": {
     "@storybook/addon-actions": "^6.0.6",
     "@storybook/react-native": "^5.3.19",
+    "@storybook/addon-essentials": "^6.0.6",
+    "@storybook/addon-links": "^6.0.6",
     "react": "16.13.1",
     "react-native": "0.63.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabicsp/vtv-test-storybook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabicsp/vtv-test-storybook/issues"
+  },
+  "homepage": "https://github.com/fabicsp/vtv-test-storybook#readme"
 }
