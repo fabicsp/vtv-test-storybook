@@ -1,0 +1,11 @@
+{
+  "name": "vtv-test-storybook",
+  "version": "1",
+  "private": false,
+  "peerDependencies": {
+    "@storybook/addon-actions": "^6.0.6",
+    "@storybook/react-native": "^5.3.19",
+    "react": "16.13.1",
+    "react-native": "0.63.2"
+  }
+}
