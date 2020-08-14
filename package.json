@@ -4,7 +4,7 @@
   "description": "- its a test to use storibook UI lib",
   "main": "index.js",
   "private": false,
-  "peerDependencies": {
+  "dependencies": {
     "@storybook/addon-actions": "^6.0.6",
     "@storybook/addon-essentials": "^6.0.6",
     "@storybook/addon-links": "^6.0.6",
