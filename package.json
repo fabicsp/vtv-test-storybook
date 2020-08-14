@@ -6,7 +6,6 @@
   "private": false,
   "peerDependencies": {
     "@storybook/addon-actions": "^6.0.6",
-    "@storybook/react-native": "^5.3.19",
     "@storybook/addon-essentials": "^6.0.6",
     "@storybook/addon-links": "^6.0.6",
     "react": "16.13.1",
